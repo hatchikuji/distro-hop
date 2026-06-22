@@ -131,6 +131,7 @@ ENV/
 env.bak/
 venv.bak/
 /profiles
+.idea
 # Spyder project settings
 .spyderproject
 .spyproject
